@@ -4,6 +4,6 @@ A Common Lisp structured logger for Fluentd
 
 |---------+-------------------------------------------------------|
 | source  | git:https://github.com/fukamachi/cl-fluent-logger.git |
-| commit  | 57c0192                                               |
+| commit  | 4d11c6c                                               |
 | systems | cl-fluent-logger                                      |
 |---------+-------------------------------------------------------|
